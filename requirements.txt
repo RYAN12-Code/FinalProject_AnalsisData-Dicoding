@@ -1,0 +1,18 @@
+ === Library for notebook ====
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import geopandas as gpd -- versi 0.13.00 with python version 3.9
+import folium
+
+
+ === Library for dashboard ===
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import geopandas as gpd # versi 0.13.00 with python version 3.9
+import folium
+import streamlit as st
+from streamlit_folium import st_folium
+from folium.plugins import MarkerCluster 
+
